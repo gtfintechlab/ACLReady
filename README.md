@@ -70,7 +70,7 @@ This repository:
 
 3. **Access the API**:
 
-    The server will be running on `http://localhost:8080`.
+    The server will be running on `http://localhost:3000/`.
 
 ### Folder Structure
 
