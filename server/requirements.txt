@@ -1,0 +1,8 @@
+flask
+flask_cors
+llama-index
+matplotlib
+openai
+pylatexenc
+python-dotenv
+fastapi

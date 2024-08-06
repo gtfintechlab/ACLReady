@@ -1,0 +1,19 @@
+name: aclready_env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.11.4
+  - nodejs
+  - pip
+  - pip:
+    - flask
+    - flask_cors
+    - jupyterlab # For convienence, this is not needed for application to run
+    - llama-index
+    - matplotlib #llama index wants this or server.py wants this for running external python file
+    - openai
+    - pylatexenc # read latex (.tex) files
+    - python-dotenv
+
+
