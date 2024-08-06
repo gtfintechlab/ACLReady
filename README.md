@@ -34,8 +34,8 @@ This repository:
 1. **Clone the repository** and navigate to the project directory:
 
     ```bash
-    git clone git@github.com:gtfintechlab/ACL_SystemDemonstrationChecklist.git
-    cd ACL_SystemDemonstrationChecklist
+    git clone https://github.com/gtfintechlab/ACLReady.git
+    cd ACLReady
     ```
 
 2. **Run the installation script**:
