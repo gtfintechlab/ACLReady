@@ -1,6 +1,0 @@
-runtime: python311
-env: flex
-entrypoint: python app.py
-
-env_variables:
-  OPENAI_API_KEY: 
