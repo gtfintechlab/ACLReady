@@ -11,7 +11,7 @@
 <div align="center">
 <hr>
 
-[Installation](#installation) | [Basic Concepts](#basic-concepts)
+[Installation](#installation) | [Citation](#citation)
 
 <hr>
 </div>
@@ -72,23 +72,8 @@ This repository:
 
     The server will be running on `http://localhost:3000/`.
 
-### Folder Structure
+## Citation
 
-```
-├── LICENSE.md
-├── README.md
-├── aclready
-│   ├── README.md
-│   ├── node_modules
-│   ├── package-lock.json
-│   ├── package.json
-│   ├── public
-│   ├── src
-│   └── tailwind.config.js
-├── environment.yml
-├── install.sh
-├── resources
-│   └── aclready_logo.png
-└── server
-    └── app.py
-```
+If you find this repository useful, please cite our work (soon to be on arxiv)
+
+
