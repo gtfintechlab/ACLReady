@@ -20,8 +20,10 @@
 
 This repository:
 
-- is **an easy-to-use GPT 3.5 or Llama powered web interface** which helps fill in the ACL checklist. If you want to save time and reduce effort, check out this tool to complement and aid your research journey.
+- is **an easy-to-use GPT 3.5 or Llama powered web interface** which can help fill in the ACL checklist. If you want to save time and reduce effort, check out this tool to complement and aid your research journey.
 - is **highly flexible** and offers various adaptations and possibilities such as prompt customization, thereby, enabling developers to continue developing this tool for other conferences.
+
+An overview of ACLReady is presented in this [YouTube video](https://youtu.be/_V0OV2E90FY?si=2v2rlx5T2dQzWK8L).
 
 ## Installation
 
@@ -74,6 +76,6 @@ This repository:
 
 ## Citation
 
-If you find this repository useful, please cite our work (soon to be on arxiv)
+If you find this repository useful, please cite our work (soon to be on arxiv).
 
 
