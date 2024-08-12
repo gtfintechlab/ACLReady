@@ -78,4 +78,12 @@ An overview of ACLReady is presented in this [YouTube video](https://youtu.be/_V
 
 If you find this repository useful, please cite our work (soon to be on arxiv).
 
-
+```c
+@article{galarnyk2024aclready,
+  title={ACL Ready: RAG Based Assistant for the ACL Checklist},
+  author={Galarnyk, Michael and Routu, Rutwik and Bheda, Kosha and Mehta, Priyanshu and Shah, Agam and Chava, Sudheer},
+  journal={Available at arXiv 2408.04675},
+  year={2024},
+  url={https://arxiv.org/abs/2408.04675}
+}
+```
