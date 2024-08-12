@@ -76,7 +76,7 @@ An overview of ACLReady is presented in this [YouTube video](https://youtu.be/_V
 
 ## Citation
 
-If you find this repository useful, please cite our work (soon to be on arxiv).
+If you find this repository useful, please cite our work.
 
 ```c
 @article{galarnyk2024aclready,
